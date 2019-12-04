@@ -1,2 +1,2 @@
-# teachmehowtohtml
+# HTML-CSS
 leren hoe te coderen
